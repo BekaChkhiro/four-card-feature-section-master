@@ -1,0 +1,42 @@
+@media screen and (min-width: 1440px) {
+    /* main content */
+
+    .main-content {
+        width: 540px;
+        padding: 80px 450px 0px 450px;
+    }
+
+    .main-content h1 {
+        width: 445px;
+        font-size: 36px;
+        line-height: 54px;
+        letter-spacing: 0.25px;
+        
+    }
+
+    .main-content h2 {
+        width: 442px;
+        font-size: 36px;
+        line-height: 54px;
+        letter-spacing: 0.25px;
+    }
+
+    .main-content p {
+        width: 541px;
+        font-size: 15px;
+        line-height: 25px;
+        letter-spacing: 0.1px;
+    }
+
+    /* main cards */
+
+    .main-cards {
+        flex-direction: row;
+        gap: 30px;
+        padding: 64px 165px 80px 165px;
+    }
+
+    .card-1 {
+        margin-bottom: 30px;
+    }
+}

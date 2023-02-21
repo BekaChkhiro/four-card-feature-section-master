@@ -1,0 +1,120 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #FAFAFA;
+}
+
+main {
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    flex-direction: column;
+}
+/* main content */
+
+.main-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 311px;
+    padding: 85px 32px 0px 32px;
+}
+
+.main-content h1 {
+    color: #4D4F62;
+    font-size: 24px;
+    line-height: 36px;
+    letter-spacing: 0.17px;
+    font-weight: 275;
+    margin-bottom: 1px;
+}
+
+.main-content h2 {
+    color: #4D4F62;
+    font-size: 24px;
+    line-height: 36px;
+    letter-spacing: 0.17px;
+    font-weight: 600;
+    margin-bottom: 13px;
+}
+
+.main-content p {
+    width: 311px;
+    color: #4D4F62;
+    font-size: 15px;
+    line-height: 25px;
+    letter-spacing: 0.1px;
+    text-align: center;
+    font-weight: 400;
+}
+
+/* main cards */
+
+.main-cards {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 25px;
+    padding: 76px 32px 78px 32px;
+}
+
+/* main card 1 */
+.main-card1 {
+    border-radius: 8px;
+    border-top: solid 3.55px #44D3D2;
+    background-color: #FFFFFF;
+    width: 254px;
+    padding: 27px 28px 28px 29px;
+}
+
+.card-h2 {
+    color: #4D4F62;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 30px;
+    margin-bottom: 1px;
+}
+
+.card-p {
+    width: 254px;
+    color: #4D4F62;
+    font-size: 13px;
+    line-height: 23px;
+    font-weight: 400;
+    letter-spacing: 0.09px;
+    margin-bottom: 33px;
+}
+
+.card-img {
+    display: flex;
+    justify-content: end;
+}
+
+/* main card 2 */
+
+.card-1 {
+    border-radius: 8px;
+    border-top: solid 3.55px #EA5454;
+    background-color: #FFFFFF;
+    width: 254px;
+    padding: 27px 28px 28px 29px;
+    margin-bottom: 23px;
+}
+
+.card-2 {
+    border-radius: 8px;
+    border-top: solid 3.55px #FCAE4A;
+    background-color: #FFFFFF;
+    width: 254px;
+    padding: 27px 28px 28px 29px;
+}
+
+/* main card 3 */
+
+.main-card3 {
+    border-radius: 8px;
+    border-top: solid 3.55px #549EF2;
+    background-color: #FFFFFF;
+    width: 254px;
+    padding: 27px 28px 28px 29px;
+}
+
